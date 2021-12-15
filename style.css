@@ -148,6 +148,17 @@ nav a:hover {
   "k";
 }
 
+.grid-container-index {
+  display: grid;
+  align-items: center;
+  grid-template-areas: 
+  "a"
+  "b"
+  "d"
+  "c"
+  "e";
+}
+
 footer p{
   text-align: center;
 }
